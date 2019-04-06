@@ -1,2 +1,2 @@
-# deeplearningPy
-deep learning python with tensorflow
+# MachinelearningPy
+Python with tensorflow
